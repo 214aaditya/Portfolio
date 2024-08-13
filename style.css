@@ -1,0 +1,195 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Rajdhani:wght@300;400;500;600;700&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Rajdhani:wght@300;400;500;600;700&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+*
+{
+    padding: 0%;
+    margin: 0%;
+
+}
+.name
+{
+	display: grid;
+	justify-content: center;
+	padding: 20px;
+	font-size: 40px;
+	font-family: "PT Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.Adi
+{
+
+}
+
+.title{
+	display: grid;
+	justify-content: center;
+	padding-top: 20px;
+	padding-bottom:40px;
+
+	
+}
+
+.porfoliaHeading
+{
+	width: 100%;
+	font-size: 30px;
+}
+
+.bdy{
+	font-family: "Raleway", sans-serif;
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+}
+
+.part1{
+	background-color: rgb(241, 241, 241);
+	width: 50%;
+	display: flex;
+	flex-direction: column;
+	align-items:flex-start;
+	padding : 3%;
+	padding-left :4% ;
+	padding-right : 2%;
+	padding-bottom: 40px;
+	
+}
+.head1 {
+	display: grid;
+	padding: 5px;
+	font-family: "Rajdhani", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size:x-large;
+  padding-top: 35px;
+}
+
+.contact ul li a {
+    color: #7e7e7e;
+    text-decoration: none;
+}
+
+.contact ul li a:hover{
+    color: #1b1a1a;
+    text-decoration: none;
+}
+
+.skills   {
+    color: #7e7e7e;
+    text-decoration: none;
+}
+
+.educations ul li  {
+    color: #7e7e7e;
+    text-decoration: none;
+}
+
+.head2{
+	display: grid;
+	padding: 5px;
+	font-family: "Rajdhani", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size:x-large;
+  padding-top: 35px;
+}
+.head3{
+	display: grid;
+	padding: 5px;
+	font-family: "Rajdhani", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size:x-large;
+  padding-top: 35px;
+
+}
+
+.part2{
+	
+	width: 50%;
+	display: flex;
+	flex-direction: column;
+	padding: 4%;
+	padding-left: 4%;
+	padding-bottom: 5%;
+    text-align:left;
+	align-items:flex-start;
+	font-size: medium;
+}
+.about1{
+	display: grid;
+	padding: 8px;
+	font-family: "Rajdhani", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size:x-large;
+}
+.wk
+{
+	display: grid;
+	padding: 8px;
+	font-family: "Rajdhani", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size:x-large;
+  padding-top: 30px;
+
+}
+.bh
+{
+	display: grid;
+	font-family: "Rajdhani", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size:large;
+  color: #bc9494;
+}
+.contact ul li
+{
+	list-style: none;
+}
+.educations ul li
+{
+	list-style: none;
+}
+.skills ul li
+{
+	list-style: none;
+}
+.project3 ul li a
+{
+	color: #7e7e7e;
+    text-decoration: none;
+	padding: 5px;
+	padding-bottom:20px;
+}
+.project3 ul li
+{
+	list-style: none;
+}
+.project3 ul li a:hover
+{
+	color: #0f0f0f;
+    text-decoration: none;
+	padding: 5px;
+}
+.project3 ul li  
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.adii2
+{
+	display: grid;
+	font-family: "Rajdhani", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size:large;
+  color: #bc9494;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
